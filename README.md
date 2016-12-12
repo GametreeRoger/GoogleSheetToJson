@@ -1,6 +1,14 @@
 # GoogleSheetToJson
 
+## 使用源由
+  1. 為了方便讓企畫編輯遊戲資料
+  2. google sheet分享容易
+  3. 如果再google sheet上直接轉換成Json檔案就不用再把sheet下載轉換成excel檔再轉換成Json檔案了，節省了一些步驟
+
+---
+
 ## 改編自[pamelafox/exportjson.js](https://gist.github.com/pamelafox/1878143)
+
 ---
  - 把幾個我用不到的東西拿掉
  - 新增儲存json檔案到google drive裡面
